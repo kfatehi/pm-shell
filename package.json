@@ -1,0 +1,28 @@
+{
+  "name": "pm-shell",
+  "version": "0.0.1",
+  "description": "alernate power management shell",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calit2-UCI/pm-shell.git"
+  },
+  "keywords": [
+  ],
+  "author": "Calit2 UCI",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Calit2-UCI/pm-shell/issues"
+  },
+  "homepage": "https://github.com/Calit2-UCI/pm-shell#readme",
+  "devDependencies": {
+    "archiver": "^0.21.0",
+    "electron-packager": "^5.2.1",
+    "shelljs": "^0.6.0"
+  },
+  "dependencies": {
+  }
+}
